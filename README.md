@@ -60,11 +60,9 @@ ATENÇÃO: O arquivo do modelo está no formato `.zip` no diretório `\backend\a
 
 Você vai precisar descompactar este arquivo dentro do mesmo diretório para o backend conseguir acessá-lo. 
 
-Execute o seguinte comando no terminal para descompactar:
+Execute o seguinte comando no terminal para descompactar (Ambiente Windows):
 
-No **Windows**:
-```bash
-tar -xf backend\api\MachineLearning\models\modelo_final.zip -C backend\api\MachineLearning\models\
+   tar -xf backend\api\MachineLearning\models\modelo_final.zip -C backend\api\MachineLearning\models\
 
 
 ### Configurando o Backend (ambiente Windows)
