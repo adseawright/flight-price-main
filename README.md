@@ -54,9 +54,18 @@ Root/
 ├── frontend/ # Repositório do frontend 
 └── backend/ # Repositório do backend   
 
-**ATENÇÃO: O arquivo do modelo está no formato .zip no diretorio "\backend\api\MachineLearning\models\modelo_final.zip"**
+### Descompactando o Arquivo do Modelo
 
-Você vai precisar descompactar essa pasta dentro do mesmo diretório para o backend conseguir acessá-lo.
+ATENÇÃO: O arquivo do modelo está no formato `.zip` no diretório `\backend\api\MachineLearning\models\modelo_final.zip`.
+
+Você vai precisar descompactar este arquivo dentro do mesmo diretório para o backend conseguir acessá-lo. 
+
+Execute o seguinte comando no terminal para descompactar:
+
+No **Windows**:
+```bash
+tar -xf backend\api\MachineLearning\models\modelo_final.zip -C backend\api\MachineLearning\models\
+
 
 ### Configurando o Backend (ambiente Windows)
 
