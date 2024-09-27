@@ -33,6 +33,8 @@ O notebook utilizado para treinar o modelo de machine learning pode ser acessado
 
 ## Como Configurar o Projeto
 
+![Flight Price Predictor](https://github.com/adseawright/flight-price-main/raw/main/flight-price-predictor.JPG)
+
 ### Pré-requisitos:
 
 - **Node.js** e **npm** (para o frontend)
