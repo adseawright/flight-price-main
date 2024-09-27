@@ -10,8 +10,8 @@ Este projeto prevê o preço de passagens aéreas com base em diversos fatores (
 Ele está dividido em dois repositórios: **frontend** (React) e **backend** (Flask API), que são organizados da seguinte forma:
 
 root/ 
-├── [frontend/](https://github.com/adseawright/flight-price-backend) 
-└── [backend/](https://github.com/adseawright/flight-price-frontend)
+├── [backend/](https://github.com/adseawright/flight-price-backend) 
+└── [frontend/](https://github.com/adseawright/flight-price-frontend)
 
 ## Apresentação do Projeto
 
