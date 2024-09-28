@@ -17,7 +17,7 @@ root/
 
 Aqui está a apresentação completa do projeto, explicando seu funcionamento e principais funcionalidades:
 
-[![Apresentação do Projeto](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://youtu.be/nTh0aGA7bfM)
+[![Apresentação do Projeto](https://img.youtube.com/vi/nTh0aGA7bfM/maxresdefault.jpg)](https://youtu.be/nTh0aGA7bfM)
 
 > Clique no vídeo para assistir no YouTube.
 
