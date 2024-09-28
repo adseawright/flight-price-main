@@ -107,7 +107,7 @@ Execute o seguinte comando no terminal para descompactar (Ambiente Windows):
 
 1. Para rodar os testes no backend e verificar o funcionamento do modelo de machine learning:
    ```bash
-   python -m unittest backend\tests\test_model.py
+   pytest backend/tests/test_model.py
 
 
 
